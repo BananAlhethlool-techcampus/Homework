@@ -1,0 +1,4 @@
+my_str="abcd1234"
+print(my_str[::-1])
+
+Output:4321dcba
