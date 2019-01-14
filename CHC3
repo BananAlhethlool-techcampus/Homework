@@ -1,0 +1,11 @@
+س1: ما أهم اهداف مرحلة الفحص؟ 
+1- nmap
+2- التعرف discovery
+3-netcat
+س2:مع مثال على كل هدف من أوامر nmap ؟
+1- ping in nmap : -sP
+2- Scans: nmap -sT
+3-Xmax scan: -sX -sV
+
+
+
